@@ -15,8 +15,6 @@ Feel free to explore my repositories to see what I’m working on and connect wi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanielDiab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanielDiab&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -24,4 +22,3 @@ Feel free to explore my repositories to see what I’m working on and connect wi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DanielDiab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
